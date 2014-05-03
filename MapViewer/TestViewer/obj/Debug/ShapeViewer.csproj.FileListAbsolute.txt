@@ -1,0 +1,14 @@
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.exe
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.pdb
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\bin\Debug\ShapeViewer.exe
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\bin\Debug\ShapeViewer.pdb
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\obj\Debug\ResolveAssemblyReference.cache
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.frmMain.resources
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\obj\Debug\ShapeViewer.Properties.Resources.resources
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\obj\Debug\ResGen.read.1.tlog
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\obj\Debug\ResGen.write.1.tlog
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\bin\Debug\ShapeViewer.exe.config
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\bin\Debug\MapViewer.dll
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\bin\Debug\MapViewer.pdb
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\obj\Debug\GenerateResource.read.1.tlog
+E:\Master\Algorithmic Graph Theory\Project\ShapeViewer\ShapeViewer\obj\Debug\GenerateResource.write.1.tlog
